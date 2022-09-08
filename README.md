@@ -1,2 +1,2 @@
 # Homework-of-CS106B
-This is a homework of cd106b
+This is a homework of cs106b
