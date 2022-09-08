@@ -1,2 +1,2 @@
 # Assignment-of-CS106B
-This is a assignmentof cs106b
+This is the assignment document of cs106b
